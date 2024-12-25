@@ -1,0 +1,10 @@
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\bin\Debug\LeQuocDuy-97519-TTM63DH.exe.config
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\bin\Debug\LeQuocDuy-97519-TTM63DH.exe
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\bin\Debug\LeQuocDuy-97519-TTM63DH.pdb
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy-97519-TTM63DH.csproj.AssemblyReference.cache
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy_97519_TTM63DH.Form1.resources
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy_97519_TTM63DH.Properties.Resources.resources
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy-97519-TTM63DH.csproj.GenerateResource.cache
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy-97519-TTM63DH.csproj.CoreCompileInputs.cache
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy-97519-TTM63DH.exe
+C:\Users\Laptop K1\source\repos\LeQuocDuy-97519-TTM63DH\LeQuocDuy-97519-TTM63DH\obj\Debug\LeQuocDuy-97519-TTM63DH.pdb
